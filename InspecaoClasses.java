@@ -97,20 +97,4 @@ public class InspecaoClasses {
 		return lista;
 	}
 
-    // public static void getAnotacao(Class<?> clazz, String x) {
-    //     if(clazz.isAnnotationPresent(x.class)){
-    //         Annotation[] anotacao = clazz.getAnnotations();
-    //         System.out.println("\nAnotações:");
-            
-    //         // Itera sobre os atributos e imprime seus nomes
-    //         for (Annotation annotation : anotacao) {
-    //             System.out.println("  |" + anotacao);
-    //         }
-    //     }
-    //     else{
-    //         System.out.println("Não tem anotação");
-    //     }
-    
-    // }
-
 }
